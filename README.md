@@ -85,6 +85,7 @@ AWS Solutions Architect | HIPAA Compliance Expert | Crisis Response Specialist
 - 🎯 **Specialization:** HIPAA compliance in cloud environments
 
 ---
+<!-- 
 
 ## 📝 **Latest Insights**
 
@@ -97,7 +98,7 @@ AWS Solutions Architect | HIPAA Compliance Expert | Crisis Response Specialist
 - 🏥 **[HIPAA-Compliant AWS Architecture](https://jrioscloud.com/portfolio/hipaa-compliance)** - Healthcare platform compliance
 - ⚡ **[Emergency AWS Lambda Crisis Response](https://jrioscloud.com/portfolio/crisis-response)** - Real-time infrastructure rescue
 - 🚀 **[Unified Serverless Campaign Management](https://jrioscloud.com/portfolio/serverless-campaigns)** - 90% faster deployments
-
+-->
 ---
 
 ## 💬 **Client Testimonials**
