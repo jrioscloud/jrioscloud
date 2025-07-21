@@ -105,3 +105,4 @@ Timeline: Most infrastructure assessments completed within 48 hours
 Availability: Currently accepting 2-3 strategic projects
 
 💡 Fun fact: I prevent infrastructure disasters at 2 AM so your customers never know there was a problem.
+
